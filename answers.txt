@@ -1,6 +1,6 @@
-Number of students who modified this file: 21 students
+Number of students who modified this file: 22 students
 
-Name of the last student who modified this file: Sagar Aryal
+Name of the last student who modified this file: Chinwe Umelloh-----------------------------------Sagar Aryal
 -----------------------------------------------------
 [Template]
 Student ID:1305914	
@@ -259,4 +259,14 @@ Your favorite sport: Football
 
 Question 3.
 Your favorite food: Nepalese(Chicken Tikka Masala)
+-----------------------------------------------------
+Name: Chinwe Umelloh 
+Question 1.
+Your favorite color: Pink 
+
+Question 2.
+Your favorite sport: Football&Tennis 
+
+Question 3.
+Your favorite food: Fried rice and fish
 -----------------------------------------------------
